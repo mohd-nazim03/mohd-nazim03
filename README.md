@@ -19,7 +19,7 @@ I build real products, not just tutorial projects.
 - **Live pricing system** — Lifetime and Pro/Monthly plans
 - Built solo in 5 months · Next.js · Node.js · MongoDB · GCP
 
-📹 [Watch Product Demo]([https://youtube.com/@wellappointment](https://www.youtube.com/watch?reload=9&v=REySfstRTu4))
+📹 [Watch Product Demo](https://youtu.be/REySfstRTu4)
 
 ---
 
